@@ -30,7 +30,7 @@ HarmonyCH está disponible en dos ediciones, cada una orientada a un público es
 
 ## Características destacadas
 
-- **Cambio de escritorio mediante GUI:** Selecciona entre XFCE y Cinnamon fácilmente desde una interfaz gráfica, adaptando tu entorno cuando lo desees.
+- **Cambio de escritorio mediante GUI:** Selecciona entre varios gestores de escritorio (GNOME, KDE Plasma, Cinnamon, XFCE, LxQT... etc) fácilmente desde una interfaz gráfica, adaptando tu entorno cuando lo desees.
 - **Actualizador gráfico inteligente:** Inspirado en el sistema de CachyOS, permite actualizar el sistema desde una GUI. Puede reiniciar automáticamente el sistema cuando se actualizan componentes críticos como el Kernel o el escritorio.
 - **Autosostenibilidad:** Gracias a los repositorios de Arch y al gestor de paquetes Paru (implementado en Rust), HarmonyCH ofrece acceso a un gran número de paquetes y soporte total para AUR, manteniéndose siempre actualizado y eficiente.
 - **Sistema listo para usar:** Instalación sencilla, todo lo necesario para empezar está preinstalado. Sin configuraciones complejas.
